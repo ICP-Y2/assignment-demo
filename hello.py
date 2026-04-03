@@ -1,5 +1,5 @@
-def greet_person(name):
-    if isinstance(name, int):
-        print("Numbers not allowed!")
-    else:   
-        print(f"Hello, {name}!")
+def greet_person():
+    #TODO 
+    # this program should greet the person given as input
+    # this program should not greet the numbers
+    pass
